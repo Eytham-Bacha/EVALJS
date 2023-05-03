@@ -73,6 +73,6 @@ Pour commencer j'ai placé mon titre à l'aide d'une balise "legend".
 En dessous du titre j'ai entré une phrase à l'aide d'une balise "p", utilisé pour créer un paragraphe et d'une balise "strong" qui mettra cette phrase en gras. Cette phrase sera "l'objet" de mon projet, elle définit l'utilité du projet.
 J'ai ensuite utilisé les fonctionnalités de Bootstrap pour créer un tableau dans lequel je lui ai demandé de faire une colonne de 8/12 avec un offset de 2 pour que la colonne de 8 soit centré et qu'il laisse 2 colonnes vides de chaque côté de la page.
 Pour la partie Code Postal j'ai mis un élément "input" qui sert à créer l'emplacement ou l'utilisateur peut rentrer son code postal.
-Je lui ai mis un "maxlenght" pour limiter la taille des caractères a 5 ainsi qu'un élément "patern" qui sera utile pour préciser que les caractères attendus sont uniquement des nombres entre 0 et 9 pour éviter à l'utilisateur de rentrer des lettres qui ne seront alors pas compatible pour le code postal.
+Je lui ai mis un "maxlenght" pour limiter la taille des caractères a 5 ainsi qu'un élément "patern" qui sera utile pour préciser que les caractères attendus sont uniquement des nombres entre 0 et 9 pour éviter à l'utilisateur de rentrer des lettres qui ne seront alors pas compatible pour  le code postal.
 J'ai effectué la meme opération pour la partie Ville sauf que je n'ai pas utilisé d'élément "input" mais un élément "select" qui sera utile pour créer une liste déroulante.
 
